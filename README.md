@@ -17,12 +17,16 @@ I handled missing values and ensured consistent formatting for dates and currenc
 ### Pivot Table Logic
 I created a dedicated "Calculations" sheet to isolate specific KPIs such as Monthly Trends, Regional Performance, and Product-level Profitability.
 
+![](Pivot_analysis.png)
+
 ### 🌟Insight Discovery
 By applying conditional formatting to monthly trends, I was able to visualize seasonal performance dips that were not immediately obvious in the raw data.
 I identified specific months (June/September) with lower margins, prompting a deeper dive into regional "Risk Areas."
 
 ### 📈 Visualization
 I built a specialized dashboard focusing on "Sales Performance Overview" and "Revenue Performance and Risk Areas" particularly to highlight exactly where the business is losing value and communicate findings to stakeholders quickly.
+
+![](KPIs.png)
 
 
 ## 💡💡 Primary Findings

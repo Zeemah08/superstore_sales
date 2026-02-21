@@ -7,7 +7,7 @@ To analyze sales performance and identify specific "profit leaks" across the Can
 I utilized a dataset containing transaction records for a major Canadian retailer spanning four years.
 
 ### 🛠️ Tools Used
-Microsoft Excel, featuring Advanced Pivot Tables, Power Query, and Conditional Formatting.
+Microsoft Excel, featuring Advanced Pivot Tables, Conditional Formatting and Data Visualization.
 
 
 
